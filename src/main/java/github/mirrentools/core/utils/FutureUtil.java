@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 返回响应结果结果为Future的工具
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class FutureUtil {
   /**

@@ -5,10 +5,7 @@ import github.mirrentools.core.CoreConstants;
 import github.mirrentools.core.LocalDataStore;
 import github.mirrentools.core.SessionDataStore;
 import github.mirrentools.core.utils.AESUtil;
-import io.vertx.core.AbstractVerticle;
-import io.vertx.core.DeploymentOptions;
-import io.vertx.core.Future;
-import io.vertx.core.Promise;
+import io.vertx.core.*;
 import io.vertx.core.json.JsonArray;
 import io.vertx.core.json.JsonObject;
 import io.vertx.ext.web.client.WebClient;
@@ -27,7 +24,7 @@ import java.util.Map;
 /**
  * 程序的入口
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class MainVerticle extends AbstractVerticle {
   /**
@@ -104,6 +101,7 @@ public class MainVerticle extends AbstractVerticle {
     if (instance > 0) {
       options.setInstances(instance);
       options.setHa(true);
+      options.setThreadingModel(ThreadingModel.VIRTUAL_THREAD);
     }
     return vertx.deployVerticle(ServerVerticle.class.getName(), options);
   }

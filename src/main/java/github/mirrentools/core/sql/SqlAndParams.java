@@ -7,7 +7,7 @@ import io.vertx.sqlclient.Tuple;
 /**
  * 用于生成数据库语句时返回SQL语句与参数
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  *
  */
 public class SqlAndParams {

@@ -27,7 +27,7 @@ import java.util.Set;
 /**
  * 应用程序逻辑,这个Verticle可以被多实例部署
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class ServerVerticle extends AbstractVerticle {
   /**

@@ -7,7 +7,7 @@ import io.vertx.core.json.JsonObject;
 /**
  * 获取MultiMap参数的工具
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a> *
+ * YU *
  */
 public class ParamsUtil {
 

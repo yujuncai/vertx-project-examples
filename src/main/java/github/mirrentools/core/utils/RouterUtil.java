@@ -10,7 +10,7 @@ import github.mirrentools.core.enums.ResultState;
 /**
  * 路由器工具
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class RouterUtil {
   private final Logger LOG = LogManager.getLogger(RouterUtil.class);

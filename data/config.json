@@ -16,17 +16,8 @@
       "pwd": "KEZIviXlyxwufa4pi1UM2w==",
       "idleTimeout": 1200,
       "maxSize": 50
-    },
-    {
-      "id": "db2",
-      "host": "127.0.0.1",
-      "port": 3306,
-      "database": "local",
-      "user": "KEZIviXlyxwufa4pi1UM2w==",
-      "pwd": "KEZIviXlyxwufa4pi1UM2w==",
-      "idleTimeout": 1200,
-      "maxSize": 50
     }
+
   ],
   "app":{
     "testMode": true

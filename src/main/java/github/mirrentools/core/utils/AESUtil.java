@@ -13,7 +13,7 @@ import java.util.Base64;
 
 /**
  * AES加解密工具
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class AESUtil {
   private static final Logger LOG = LogManager.getLogger(AESUtil.class);

@@ -4,7 +4,7 @@ import io.vertx.core.MultiMap;
 
 /**
  * 获取Nginx的IP工具
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class NginxIpUtil {
   /**

@@ -22,7 +22,7 @@ import java.util.Objects;
 /**
  * 程序启动器
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class MainLauncher extends Launcher {
 

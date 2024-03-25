@@ -13,7 +13,7 @@ import java.util.UUID;
 /**
  * 字符串工具
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class StringUtil {
   /**

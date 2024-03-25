@@ -5,7 +5,7 @@ package github.mirrentools.core.enums;
  * 请注意这个状态码并不是HTTP的响应状态码,而是统一的自定义协议,以便于调用者同意处理<br>
  * 调用者应该根据code做提示以及,而不是直接提示msg除非调用者原因不考虑加入其他语言
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public enum ResultState {
   /**

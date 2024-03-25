@@ -6,7 +6,7 @@ package github.mirrentools.core.utils;
  * 当判断到用户token与系统token不一致时可调用本工具的isNewVersion方法判断用户的token是不是比系统token新,<br>
  * 如果比系统新则系统需要重新获取token并更新缓存,反则用户的token过期或无效
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class TokenUtil {
   /**

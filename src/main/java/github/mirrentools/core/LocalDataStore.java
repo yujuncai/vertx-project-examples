@@ -10,7 +10,7 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 在app生命周期的数据缓存
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class LocalDataStore {
   private final Logger LOG = LogManager.getLogger(LocalDataStore.class);

@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * SQL执行器默认实现
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class SQLExecuteImpl implements SQLExecute {
   /**

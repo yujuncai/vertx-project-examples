@@ -11,7 +11,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 无状态会话数据存储,该会话存储为单例,当初始化后timeout就固定create无效
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  * @version 创建时间：2019年8月26日 下午4:16:10
  *
  */
@@ -170,7 +170,7 @@ public class SessionDataStore {
 	/**
 	 * 会话类
 	 *
-	 * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+	 * YU
 	 *
 	 */
 	 class Session implements Shareable {

@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * SQL执行器
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public interface SQLExecute {
   /**

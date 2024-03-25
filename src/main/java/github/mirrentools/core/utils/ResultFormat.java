@@ -13,7 +13,7 @@ import java.util.List;
  * msg : 信息<br>
  * data : 数据<br>
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  *
  */
 public class ResultFormat {

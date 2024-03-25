@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter;
 /**
  * ID 生成器
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  * @version 创建时间：2021-5-10 16:13:27
  */
 public class IdUtil {

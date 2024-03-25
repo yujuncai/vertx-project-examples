@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 返回响应数据结果的工具
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class ResultUtil {
   /**

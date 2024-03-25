@@ -20,7 +20,7 @@ import java.util.List;
 /**
  * 服务的基本实现
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class ServiceBase extends JdbcBase implements DataValidatorHelper {
   /**

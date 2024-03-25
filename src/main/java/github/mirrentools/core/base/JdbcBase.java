@@ -18,7 +18,7 @@ import java.util.concurrent.ConcurrentHashMap;
 /**
  * 数据库操作的基本实现
  *
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class JdbcBase {
   /**

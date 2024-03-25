@@ -10,7 +10,7 @@ import io.vertx.core.json.JsonObject;
 
 /**
  * 数据库分页返回结果
- * @author <a href="https://github.com/shenzhenMirren">Mirren</a>
+ * YU
  */
 public class SqlLimitResult<T> {
 	/** 分页返回结果键名称的map */
